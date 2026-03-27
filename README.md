@@ -2,8 +2,6 @@
 
 ### A passionate data analyst from a medical background
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noha-adam-1011&label=Profile views&color=0e75b6&style=flat" alt="noha-adam-1011" /> </p>
-
 - 🌱 I'm currently learning **SQL and Python**
 
 - 👯 I'm looking to collaborate on **Data Analysis projects across different industries**
